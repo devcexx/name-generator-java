@@ -1,0 +1,4 @@
+*.xml text eol=lf encoding=utf8
+*.java text eol=lf encoding=utf8
+*.gzip binary
+
